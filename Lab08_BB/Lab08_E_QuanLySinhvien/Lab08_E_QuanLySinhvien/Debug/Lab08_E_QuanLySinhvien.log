@@ -1,0 +1,8 @@
+﻿  program.cpp
+c:\users\tuanctk42\desktop\lab\lab08_e_quanlysinhvien\lab08_e_quanlysinhvien\thuvien.h(45): warning C4101: 'i': unreferenced local variable
+c:\users\tuanctk42\desktop\lab\lab08_e_quanlysinhvien\lab08_e_quanlysinhvien\thuvien.h(204): warning C4101: 'dk': unreferenced local variable
+c:\users\tuanctk42\desktop\lab\lab08_e_quanlysinhvien\lab08_e_quanlysinhvien\thuvien.h(254): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tuanctk42\desktop\lab\lab08_e_quanlysinhvien\lab08_e_quanlysinhvien\thuvien.h(260): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tuanctk42\desktop\lab\lab08_e_quanlysinhvien\lab08_e_quanlysinhvien\menu.h(41): warning C4101: 'p': unreferenced local variable
+  Lab08_E_QuanLySinhvien.vcxproj -> C:\Users\tuanctk42\Desktop\lab\Lab08_E_QuanLySinhvien\Debug\Lab08_E_QuanLySinhvien.exe
+  Lab08_E_QuanLySinhvien.vcxproj -> C:\Users\tuanctk42\Desktop\lab\Lab08_E_QuanLySinhvien\Debug\Lab08_E_QuanLySinhvien.pdb (Full PDB)
